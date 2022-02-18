@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Cores HTML (nome, hexadecimal e RGB)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <img src="https://celke.com.br/assets/imagens/logo/logo-site.png" alt="LOGO">
+    
+            <ul>
+                <li>Página Inicial</li>
+                <li>Cursos</li>
+                <li>Blog</li>
+                <li>Contato</li>
+                <li><button>Espaço Aluno</button></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Tabela de Cores HTML (nome, hexadecimal e RGB)</h1>
+    
+    <p>No <a href="http://www.google.com" target="_blank">HTML</a>, as cores podem ser nomeadas pelo nome (em Inglês), como White para branco, green, para verde, blue, para azul e assim por diante. </p>
+
+    <p>Podem ser codificadas, por números hexadecimais, como, FFAA00 – 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f.</p>
+
+    <p>Os códigos são como uma misturas de cores RGB (Red – Vermelho, Green – Verde, Blue – Azul), o código hexadecimal for 006600, deduz-se que a cor é verde, pois os dois primeiros números (que correspondem ao vermelho – RRGGBB), são 0, os dois números do meio, são 6 e os dois números finais são 0.</p>
+
+    <p>Para escrever uma cor codificada, usa-se # antes do código, e dentro das aspas, por exemplo, “#550000”.</p>
+
+    <p>Portanto, vocé pode usar as cores pelo nome, código hexadecimal ou código RGB:</p>
+
+    <h2>Tons de Cinza - Gray Colors</h2>
+
+    <table>
+        <thead>
+            <th>Nome da cor</th>
+            <th>Código hexadecimal</th>
+            <th>Código RGB</th>
+        </thead>
+
+        <tbody>
+            <tr class="black">
+                <td>Black</td>
+                <td>#000000</td>
+                <td>(0,0,0)</td>
+            </tr>
+            <tr class="grey11">
+                <td>Grey11</td>
+                <td>#1C1C1C</td>
+                <td>(28,28,28)</td>
+            </tr>
+
+            <tr class="grey21">
+                <td>grey21</td>
+                <td>#363636</td>
+                <td>(54,54,54)</td>
+            </tr>
+
+            <tr class="grey31">
+                <td>grey31</td>
+                <td>#4F4F4F</td>
+                <td>(79,79,79)</td>
+            </tr>
+
+            <tr class="dimgray">
+                <td>DimGray</td>
+                <td>#696969</td>
+                <td>(105,105,105)</td>
+            </tr>
+
+            <tr class="gray">
+                <td>Gray</td>
+                <td>#808080</td>
+                <td>(128,128,128)</td>
+            </tr>
+
+            <tr class="darkgray">
+                <td>DarkGray</td>
+                <td>#A9A9A9</td>
+                <td>(169,169,169)</td>
+            </tr>
+
+            <tr class="silver">
+                <td>Silver</td>
+                <td>#C0C0C0</td>
+                <td>(192,192,192)</td>
+            </tr>
+
+            <tr class="lightgrey">
+                <td>LightGrey</td>
+                <td>#D3D3D3</td>
+                <td>(211,211,211)</td>
+            </tr>
+
+            <tr class="gainsboro">
+                <td>Gainsboro</td>
+                <td>#DCDCDC</td>
+                <td>(220,220,220)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Tons de Azul</h2>
+    </main>
+</body>
+</html>
