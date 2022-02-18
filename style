@@ -1,0 +1,49 @@
+table, th, td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+}
+tr{
+    height: 40px;
+}
+.black{
+    color: white;
+    background-color: #000000;
+}
+.grey11{
+    color: white;
+    background-color: #1C1C1C;
+}
+.grey21{
+    color: white;
+    background-color: #363636;
+}
+.grey31{
+    color: white;
+    background-color: #4f4f4f;
+}
+.dimgray{
+    color: white;
+    background-color: #696969;
+}
+.gray{
+    color: white;
+    background-color: #808080;
+}
+.darkgray{
+    color: black;
+    background-color: #a9a9a9;
+}
+.silver{
+    color: black;
+    background-color: #c0c0c0;
+}
+.lightgrey{
+    color: black;
+    background-color: #d3d3d3;
+}
+.gainsboro{
+    color: black;
+    background-color: #dcdcdc;
+}
